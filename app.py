@@ -24,6 +24,7 @@ if page == " ✨ Nos Créations ":
     
 # Main page
 st.title("🏺 Riad Artisanat ")
+st.info("ℹ️ Note : Ce site est un prototype démonstratif (Portfolio). Les produits, prix et commandes sont fictifs.")
 if page == " ✨ Nos Créations ":
     # 1. تطبيق الفلاتر
     df_filtered = df
